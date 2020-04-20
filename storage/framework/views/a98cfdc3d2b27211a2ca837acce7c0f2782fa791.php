@@ -1,0 +1,1 @@
+hello<?php /**PATH C:\Users\Admin\Documents\MINE\Private\workspace\laamp_immo\resources\views/appartements.blade.php ENDPATH**/ ?>
